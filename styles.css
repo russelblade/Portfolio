@@ -171,6 +171,7 @@ section {
   width: 100%;
   height: 100%;
   object-fit: contain;
+  object-position: center;
 }
 
 .section__text {
@@ -425,4 +426,15 @@ article .icon {
 
 .email-icon {
   height: 2.5rem;
+}
+
+/* Footer Section */
+
+footer {
+  height: 26vh;
+  margin: 0 1rem;
+}
+
+footer p {
+  text-align: center;
 }
