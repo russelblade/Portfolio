@@ -438,3 +438,8 @@ footer {
 footer p {
   text-align: center;
 }
+
+#company-logo {
+  color: #a415ff;
+  font-weight: 600;
+}
