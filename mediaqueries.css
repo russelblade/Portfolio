@@ -1,3 +1,9 @@
+@media screen and (min-width: 1400px) {
+  .details-container.padding {
+    padding: 4rem;
+  }
+}
+
 @media screen and (max-width: 1400px) {
   #profile {
     height: 83vh;
@@ -9,6 +15,10 @@
   #contact,
   #projects {
     height: fit-content;
+  }
+
+  .details-container.padding {
+    padding: 4rem;
   }
 }
 
